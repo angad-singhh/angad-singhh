@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **FastAPI, Django, Solidity, Rust, Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://angad-singhh.github.io/portfolio/](https://angad-singhh.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio: working on it]
 
 - 💬 Ask me about **Anything, I will try my best !!**
 
