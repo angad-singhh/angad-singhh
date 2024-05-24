@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/singhangad_" target="blank"><img src="https://img.shields.io/twitter/follow/singhangad_?logo=twitter&style=for-the-badge" alt="singhangad_" /></a> </p>
 
-- 🌱 I’m currently learning **FastAPI, Django, Solidity, Rust, Blockchain**
+- 🌱 I’m currently learning **FastAPI, Django, TypeScript, Solidity, Rust, Blockchain**
 
 - 👨‍💻 All of my projects are available at [Portfolio: working on it]
 
